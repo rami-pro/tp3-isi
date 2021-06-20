@@ -1,0 +1,16 @@
+{
+    "students": [
+        {
+            "nom": "esi-sba",
+            "prenom": "Afssa",
+            "sex": "m",
+            "dateNaissance": "2000-06-05",
+            "lieuNaissance": "22",
+            "address": "22",
+            "anneBac": "2018",
+            "email": "etudes.ramigoual@gmail.com",
+            "id": 10,
+            "code": "2018-2000-06-05-22-m-10"
+        }
+    ]
+}
